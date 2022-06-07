@@ -21,7 +21,7 @@ while (playAgain === true) {
         playAgain = true
     } else {
         playAgain = false
-        window.alert('Thanks for playing a the game!')
+        window.alert('Thanks for playing the Sensei Trivia Game:'+userName)
     }
 
 }
